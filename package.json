@@ -1,5 +1,5 @@
 {
-  "name": "ZIM-MD",
+  "name": "sashika-MD",
   "version": "1.2.3", 
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -21,10 +21,10 @@
   "author": "Drips.",
   "license": "MIT",
   "dependencies": {
-   "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
+   "@adiwajshing/baileys": "git+https://github.com/sashika003/Baileys.git",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
-    "awesome-phonenumber": "^2.64.0",
+    "awesome-phonenumber": "^94776381721",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
